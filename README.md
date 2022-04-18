@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm rmznbyv</h1>
 <h3 align="center">A passionate Full-Stack developer from Azerbaijan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmznbyv&label=Profile%20views&color=0e75b6&style=flat" alt="rmznbyv" /> </p>
+
 - 🌱 I’m currently learning **Python, CyberSecurity**
 
 - 💬 Ask me about **HTML, CSS, PHP, MYSql**
